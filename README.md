@@ -50,10 +50,6 @@ The project uses a Random Forest Classifier trained on:
 - Behavioral indicators: URL count, attachment presence, and suspicious words.
 - URL features: Domain, IP usage, HTTPS presence, and path length.
 
-### 📊 Visualization and Reporting
-- The Threat Dashboard provides real-time phishing statistics and trends.
-- Reports can be saved and revisited for historical reference.
-
 ### 🛡️ Security Tips
 - Be cautious with suspicious URLs.
 - Avoid clicking on shortened or unknown links.
