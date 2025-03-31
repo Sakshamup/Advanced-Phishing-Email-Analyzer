@@ -10,7 +10,7 @@ The Advanced Phishing Email Analyzer is a Streamlit-based web application that d
 - 📊 Dashboard and Reports:
    - Displays recent phishing trends.
    - Saves and shows previous analyses.
--🔒 Threat Intelligence: Provides insights into emerging phishing patterns.
+- 🔒 Threat Intelligence: Provides insights into emerging phishing patterns.
 
 
 ### 🛠️ Tech Stack
